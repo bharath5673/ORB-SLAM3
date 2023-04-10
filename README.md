@@ -2,7 +2,7 @@
 
 ![output](https://github.com/bharath5673/ORB-SLAM3/blob/main/Screenshot%20from%202023-04-10%2016-02-33.png)
 
-# 1. Installation of ORB-SLAM 3 on a fresh installed Ubuntu 22.04
+## 1. Installation of ORB-SLAM 3 on a fresh installed Ubuntu 22.04
 Install all liberay dependencies.
 ```shell
 
@@ -71,7 +71,7 @@ to install
 
 ---
 
-# 2. Download test datasets
+## 2. Download test datasets
 
 ```shell
 cd ~
@@ -85,7 +85,7 @@ unzip MH_01_easy.zip -d MH01/
 Similar for another datasets in EuRoc see here [https://projects.asl.ethz.ch/datasets/doku.php?id=kmavvisualinertialdatasets]
 
 
-# 3. Run simulation 
+## 3. Run simulation 
 ```shell
 cd ~/Dev/ORB_SLAM3
 
@@ -104,7 +104,7 @@ cd ~/Dev/ORB_SLAM3
 ./Examples/Stereo-Inertial/stereo_inertial_euroc ./Vocabulary/ORBvoc.txt ./Examples/Stereo-Inertial/EuRoC.yaml ~/Datasets/EuRoc/MH01 ./Examples/Stereo-Inertial/EuRoC_TimeStamps/MH01.txt dataset-MH01_stereoi
 ```
 
-# 4 Validation Estimate vs Ground True
+## 4 Validation Estimate vs Ground True
 We need numpy and matplotlib installed in pytho2.7. But Ubuntu20.04 has not pip2.7
 ```shell
 sudo apt install curl
