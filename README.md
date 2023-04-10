@@ -1,4 +1,4 @@
-# Simple Installation guide for ORB-SLAM on UBUNTU 22LTS
+# Simple Installation guide for ORB-SLAM on [UBUNTU 22LTS](https://releases.ubuntu.com/jammy)
 
 ![output](https://github.com/bharath5673/ORB-SLAM3/blob/main/Screenshot%20from%202023-04-10%2016-02-33.png)
 
