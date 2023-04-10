@@ -66,8 +66,7 @@ sed -i 's/++11/++14/g' CMakeLists.txt
 Now Simply just run (if you encounter compiler, try to run the this shell script 2 or 3 more time. It works for me.)
 ```shell
 ./build.sh
-```
-to install  
+```  
 
 ---
 
