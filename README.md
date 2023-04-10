@@ -1,4 +1,4 @@
-# Simple Installation guide for ORB-SLAM on [Ubuntu 22.04.2 LTS (Jammy Jellyfish)](https://releases.ubuntu.com/jammy)
+# Simple Installation guide for ORB-SLAM on [Ubuntu 22.04.2 LTS (Jammy Jellyfish)](https://releases.ubuntu.com/jammy) <img src="https://user-images.githubusercontent.com/33729709/222878237-fb9e902e-79ef-4393-9bb6-e1bc9b3a77b3.gif" width="120" height="40" />
 
 ![output](https://github.com/bharath5673/ORB-SLAM3/blob/main/Screenshot%20from%202023-04-10%2016-02-33.png)
 
